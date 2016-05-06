@@ -1,0 +1,15 @@
+127.0.0.1 - - [19/Apr/2016:13:18:06 -0300] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [19/Apr/2016:13:18:13 -0300] "GET /contas/tabelas HTTP/1.1" 200 267
+127.0.0.1 - - [19/Apr/2016:13:18:13 -0300] "GET /favicon.ico HTTP/1.1" 404 973
+127.0.0.1 - - [19/Apr/2016:13:21:39 -0300] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [19/Apr/2016:13:21:46 -0300] "GET /contas/olaMundoSpring HTTP/1.1" 200 279
+127.0.0.1 - - [19/Apr/2016:13:27:35 -0300] "GET /portal/p/api/servlet/ping/1 HTTP/1.1" 404 1005
+127.0.0.1 - - [19/Apr/2016:13:27:35 -0300] "GET /portal/api/rest/session/keepAlive?space=&_=1461078754286 HTTP/1.1" 404 1017
+127.0.0.1 - - [19/Apr/2016:13:27:35 -0300] "GET /ecm/ping/2 HTTP/1.1" 404 971
+127.0.0.1 - - [19/Apr/2016:13:27:35 -0300] "GET /webdesk/ping/3 HTTP/1.1" 404 979
+127.0.0.1 - - [19/Apr/2016:13:27:35 -0300] "GET /social/ping/4 HTTP/1.1" 404 977
+127.0.0.1 - - [19/Apr/2016:13:42:35 -0300] "GET /portal/p/api/servlet/ping/1 HTTP/1.1" 404 1005
+127.0.0.1 - - [19/Apr/2016:13:42:35 -0300] "GET /portal/api/rest/session/keepAlive?space=&_=1461078754287 HTTP/1.1" 404 1017
+127.0.0.1 - - [19/Apr/2016:13:42:35 -0300] "GET /ecm/ping/2 HTTP/1.1" 404 971
+127.0.0.1 - - [19/Apr/2016:13:42:35 -0300] "GET /webdesk/ping/3 HTTP/1.1" 404 979
+127.0.0.1 - - [19/Apr/2016:13:42:35 -0300] "GET /social/ping/4 HTTP/1.1" 404 977

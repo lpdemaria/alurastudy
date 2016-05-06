@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="FileSystemImportWizard">
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="/home/ljunior/Personal/projeto-spring4/projeto-spring4"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="794" key="dialogWidth"/>
+		<item value="634" key="dialogHeight"/>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="textEntries">
+		</list>
+	</section>
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="23" key="DIALOG_Y_ORIGIN"/>
+		<item value="331" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.jboss.tools.common.model.ui.wizard.newfile.NewPropertiesFileWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.jboss.tools.jst.web"/>
+		</list>
+	</section>
+	<section name="ShowViewDialog">
+		<item value="341" key="DIALOG_WIDTH"/>
+		<item value="org.eclipse.ui.views.ProblemView" key="ShowViewDialog.STORE_SELECTED_VIEW_ID"/>
+		<item value="98" key="DIALOG_Y_ORIGIN"/>
+		<item value="342" key="DIALOG_X_ORIGIN"/>
+		<item value="429" key="DIALOG_HEIGHT"/>
+		<item value="1|Sans|9.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<list key="ShowViewDialog.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui"/>
+			<item value="org.eclipse.jdt.ui.java.browsing"/>
+			<item value="web.views.category.id"/>
+			<item value="org.eclipse.birt.report.designer.ui.views.category"/>
+			<item value="org.eclipse.jst.ws.jwst.ui"/>
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.ui.wizards.import.FileSystem" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+</section>

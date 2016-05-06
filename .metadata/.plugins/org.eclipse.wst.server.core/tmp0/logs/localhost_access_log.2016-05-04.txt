@@ -1,0 +1,11 @@
+127.0.0.1 - - [04/May/2016:12:56:40 -0300] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [04/May/2016:12:56:47 -0300] "GET /contas/form HTTP/1.1" 200 633
+127.0.0.1 - - [04/May/2016:12:56:47 -0300] "GET /contas/form HTTP/1.1" 200 633
+127.0.0.1 - - [04/May/2016:12:56:47 -0300] "GET /favicon.ico HTTP/1.1" 404 973
+127.0.0.1 - - [04/May/2016:12:56:50 -0300] "POST /contas/adicionaConta HTTP/1.1" 200 733
+127.0.0.1 - - [04/May/2016:12:56:53 -0300] "POST /contas/adicionaConta HTTP/1.1" 200 733
+127.0.0.1 - - [04/May/2016:12:56:53 -0300] "POST /contas/adicionaConta HTTP/1.1" 200 733
+127.0.0.1 - - [04/May/2016:12:56:54 -0300] "POST /contas/adicionaConta HTTP/1.1" 200 733
+127.0.0.1 - - [04/May/2016:12:57:00 -0300] "GET /contas/adicionaConta HTTP/1.1" 200 720
+127.0.0.1 - - [04/May/2016:12:57:02 -0300] "POST /contas/adicionaConta HTTP/1.1" 200 733
+127.0.0.1 - - [04/May/2016:12:57:03 -0300] "POST /contas/adicionaConta HTTP/1.1" 200 733
